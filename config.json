@@ -1,0 +1,15 @@
+
+
+{   
+    "target": "http://192.168.1.61",
+    "baseline_users":5,
+    "automated_agents":3,
+    "threat_actors":2,
+    "identity_pool_size":50,
+    "timeout":3,
+    "retry_attempts":3,
+    "global_delay":0.1,
+    "max_runtime":300,
+    "scenario": "mixed_scenario"
+
+}
